@@ -1,0 +1,70 @@
+
+
+
+
+h1{
+    text-align: center;
+    color: blue;
+}
+.buttons{
+    height: 60px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.buttons>button{
+    background-color: #5c9494;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    font-size: large;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tableDiv{  
+    box-sizing: content-box;  
+    width: 90vw;
+    margin: auto;
+    border: 5px solid;
+    font-size: 1.5vw;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+th{
+   border: 1px solid;
+   padding: 1.2vw;
+}
+
+table, td, th, tr {
+    box-sizing: content-box;
+    width: 100%;    
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    padding: 5px 5px;
+}
+
+tr:nth-child(odd) {
+    background-color: #5c9494;
+}
+th{
+    background-color: blue;
+    color: white;
+}
+tr:hover{
+    background-color: rgb(101, 73, 73);
+    color: #fff;
+}
+td>img{
+    width: 60px;
+    height: 75px;
+}
+td>button:hover{
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+}
+
+

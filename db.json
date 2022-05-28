@@ -1,0 +1,81 @@
+{
+  "userData": [
+    {
+      "data": {
+        "name": "Roushan Gupta",
+        "age": "45",
+        "address": "ghghfgfghj",
+        "salary": "4567",
+        "ismaried": "unmaried",
+        "photo": {
+          "current": "blob:http://localhost:3000/7e934baf-bd3d-4bed-9eb4-687e2536b63a"
+        }
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "name": "fgsdagfdsg",
+        "age": "654",
+        "address": "gdfgfg",
+        "department": "developer",
+        "salary": "6456",
+        "ismaried": "maried",
+        "photo": {
+          "current": "blob:http://localhost:3000/7e772500-b8c5-46ab-b115-b4b38a7f13fe"
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Amit Kumar",
+        "age": "65",
+        "address": "gdfgfg",
+        "department": "hr",
+        "salary": "6456",
+        "ismaried": "maried",
+        "photo": {
+          "current": "blob:http://localhost:3000/7e772500-b8c5-46ab-b115-b4b38a7f13fe"
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Myrone Pereira",
+        "age": "54",
+        "address": "gdfgfg",
+        "department": "sde",
+        "salary": "6456",
+        "ismaried": "maried",
+        "photo": {
+          "current": "blob:http://localhost:3000/7e772500-b8c5-46ab-b115-b4b38a7f13fe"
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Shivam",
+        "age": "40",
+        "address": "gdfgfg",
+        "department": "developer",
+        "salary": "6456",
+        "ismaried": "maried",
+        "photo": {
+          "current": "blob:http://localhost:3000/7e772500-b8c5-46ab-b115-b4b38a7f13fe"
+        }
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "photo": {
+          "current": "blob:http://localhost:3000/b081898e-9bba-48ab-aded-b1518ee1100a"
+        }
+      },
+      "id": 3
+    }
+  ]
+}
